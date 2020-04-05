@@ -8,4 +8,4 @@ class Dog
 end
 class Dog
   def sit
-    puts
+    puts 
